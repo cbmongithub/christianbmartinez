@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **React, Tailwind, or Javascript**
 
-- 📫 How to reach me **hello@christianbmartinez.com**
+- 📫 How to reach me: **hello@christianbmartinez.com**
 
 - 📄 Currently looking to transition roles [https://christianbmartinez.com/christians-resume.pdf](https://christianbmartinez.com/christians-resume.pdf)
 
-- ⚡ Fun fact **I am currently attending the U of U's coding bootcamp**
+- ⚡ Fun fact: **I am currently attending the U of U's coding bootcamp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
