@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript** in my free time
 
-- 👨‍💻 View my portfolio site [https://christianbmartinez.com](https://christianbmartinez.com)
+- 👨‍💻 View my portfolio site here: [https://christianbmartinez.com](https://christianbmartinez.com)
 
 - 📝 I regularly write articles on [https://christianbmartinez.com/blog](https://christianbmartinez.com/blog)
 
