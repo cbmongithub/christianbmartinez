@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/_coderchris" target="blank"><img src="https://img.shields.io/twitter/follow/_coderchris?logo=twitter&style=for-the-badge" alt="_coderchris" /></a> </p>
 
-- 🔭 I’m currently working on [CheffyAI](https://github.com/christianbmartinez/cheffy-ai)
+- 🔭 I’m currently working on chaoticmuchbotv2! A twitch moderator chatbot built with twurple and chatgpt4!
 
-- 🌱 I’m currently learning **Nextjs and Typescript**
+- 🌱 I’m currently learning **Typescript** in my free time
 
 - 👨‍💻 View my portfolio site [https://christianbmartinez.com](https://christianbmartinez.com)
 
