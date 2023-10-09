@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/_coderchris" target="blank"><img src="https://img.shields.io/twitter/follow/_coderchris?logo=twitter&style=for-the-badge" alt="_coderchris" /></a> </p>
 
-- 🔭 I’m currently working on chaoticmuchbotv2! A twitch moderator chatbot built with twurple and chatgpt4!
+- 🔭 I’m currently working on chaoticmuchbotv2! A twitch moderator chatbot built with twurple and chatgpt4! (Private)
 
-- 🌱 I’m currently learning **Typescript** in my free time
+- 🌱 I’m currently learning **Typescript** and **Shadcn** in my free time
 
 - 👨‍💻 View my portfolio site here: [https://christianbmartinez.com](https://christianbmartinez.com)
 
@@ -15,11 +15,11 @@
 
 - 📫 How to reach me: **hello@christianbmartinez.com**
 
-- 📄 Currently looking to transition roles [https://christianbmartinez.com/christians-resume.pdf](https://christianbmartinez.com/christians-resume.pdf)
+- 📄 Currently looking for a full time web developer role [https://christianbmartinez.com/christians-resume.pdf](https://christianbmartinez.com/christians-resume.pdf)
 
-- ⚡ Fun fact: **I am currently attending the U of U's coding bootcamp**
+- ⚡ Fun fact: **I am a recent graduate from University of Utahs Coding Bootcamp Program**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Lets Connect!</h3>
 <p align="left">
 <a href="https://codepen.io/_coderchris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="_coderchris" height="30" width="40" /></a>
 <a href="https://twitter.com/_coderchris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_coderchris" height="30" width="40" /></a>
