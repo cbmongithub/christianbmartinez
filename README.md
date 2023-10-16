@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">A passionate full stack developer from Utah</h3>
 
-<p align="left"> <a href="https://twitter.com/_coderchris" target="blank"><img src="https://img.shields.io/twitter/follow/_coderchris?logo=twitter&style=for-the-badge" alt="_coderchris" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_coderchris" target="blank"><img src="https://img.shields.io/twitter/follow/_coderchris?style=social" alt="Follow _coderchris on twitter" /></a> </p>
 
 - 🔭 I’m currently working on chaoticmuchbotv2! A twitch moderator chatbot built with twurple and chatgpt4! (Private)
 
