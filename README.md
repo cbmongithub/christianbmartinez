@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/_coderchris" target="blank"><img src="https://img.shields.io/twitter/follow/_coderchris?style=social" alt="Follow _coderchris on twitter" /></a> </p>
 
-- 🔭 I’m currently working on chaoticmuchbotv2! A twitch moderator chatbot built with twurple and chatgpt4! (Private)
+- 🔭 I’m currently working on **cbm_2024**! A Next js full stack dev portfolio using typescript and tailwind! (Private)
+
+- 🤖 I will be building a chatbot framework after I'm done with my portfolio build! Can't wait!
 
 - 🌱 I’m currently learning **Typescript** and **Shadcn** in my free time
 
