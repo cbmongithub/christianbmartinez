@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **cbm_2024**! A Next js full stack dev portfolio using typescript and tailwind! (Private)
 
-- 🤖 I will be building a chatbot framework after I'm done with my portfolio build! Can't wait!
+- 🤖 My next project in queue will be a chatbot framework after I'm done with my portfolio build! Can't wait! I am thinking of using a cli in combination with an npm package. Stay tuned!
 
-- 🌱 I’m currently learning **Typescript** and **Shadcn** in my free time
+- 🌱 I’m currently learning more and more **Typescript** and **Shadcn** in my free time
 
-- 👨‍💻 View my portfolio site here: [https://christianbmartinez.com](https://christianbmartinez.com)
+- 👨‍💻 View my current portfolio site here: [https://christianbmartinez.com](https://christianbmartinez.com)
 
 - 📝 I regularly write articles on [https://christianbmartinez.com/blog](https://christianbmartinez.com/blog)
 
