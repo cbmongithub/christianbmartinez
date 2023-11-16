@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/_coderchris" target="blank"><img src="https://img.shields.io/twitter/follow/_coderchris?style=social" alt="Follow _coderchris on twitter" /></a> </p>
 
-- 🔭 I’m currently working on **cbm_2024**! A Next js full stack dev portfolio using typescript and tailwind! (Private)
+- 🔭 I’m currently working on **chattr**! A React component chatbot ui library that makes it easy to develop chat gpt chatbots! Built with tailwindcss, typescript, and React! Try the beta on [npm](https://www.npmjs.com/package/chattr)!
 
-- 🤖 My next project in queue will be a chatbot framework after I'm done with my portfolio build! Can't wait! I am thinking of using a cli in combination with an npm package. Stay tuned!
-
-- 🌱 I’m currently learning more and more **Typescript** and **Shadcn** in my free time
+- 🌱 I’m currently mastering **Typescript**
 
 - 👨‍💻 View my current portfolio site here: [https://christianbmartinez.com](https://christianbmartinez.com)
 
