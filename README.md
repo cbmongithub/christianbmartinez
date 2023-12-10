@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_coderchris" target="blank"><img src="https://img.shields.io/twitter/follow/_coderchris?style=social" alt="Follow _coderchris on twitter" /></a> </p>
 
-- 🔭 I’m currently working on [chattr](https://github.com/christianbmartinez/chattr/tree/main.! A Nextjs component library that aims to make it easy to develop chat gpt chatbots! Built with tailwindcss, typescript, OpenAI, and React! Check it out on [npm](https://www.npmjs.com/package/chattr)!
+- 🔭 I’m currently working on [chattr](https://github.com/christianbmartinez/chattr/tree/main)! A Nextjs component library that aims to make it easy to develop chat gpt chatbots! Built with tailwindcss, typescript, OpenAI, and React! Check it out on [npm](https://www.npmjs.com/package/chattr)!
 
 - 🌱 I’m currently mastering **Typescript**
 
