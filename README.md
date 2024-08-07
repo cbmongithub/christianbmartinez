@@ -3,21 +3,19 @@
 
 <p align="left"> <a href="https://twitter.com/_coderchris" target="blank"><img src="https://img.shields.io/twitter/follow/_coderchris?style=social" alt="Follow _coderchris on twitter" /></a> </p>
 
-- 🔭 I’m currently working on client projects and my 2024 portfolio site!
+- 🔭 I’m currently working on my 2024 portfolio site!
 
-- 🌱 I’m currently mastering **Typescript**
+- 🌱 Diving into low level concepts, building tools around accessibility, UX and DX.
 
 - 👨‍💻 View my current portfolio site here: [https://christianbmartinez.com](https://christianbmartinez.com)
 
-- 📝 I regularly write articles on [https://christianbmartinez.com/blog](https://christianbmartinez.com/blog)
+- 💬 Ask me about **React, Tailwind, NextJS, Javascript, or Typescript**
 
-- 💬 Ask me about **React, Tailwind, or Javascript**
+- 📫 How to reach me: Reach out to me on twitter, or visit my [website](https://christianbmartinez.com)
 
-- 📫 How to reach me: **hello@christianbmartinez.com**
+- 📄 Currently seeking a full stack engineer position. Let me know if you can help! 
 
-- 📄 Currently looking for a full time web developer role [https://christianbmartinez.com/christians-resume.pdf](https://christianbmartinez.com/christians-resume.pdf)
-
-- ⚡ Fun fact: **I am a recent graduate from University of Utahs Coding Bootcamp Program**
+- ⚡ Fun fact: I have been coding for nearly 8 years (with few gaps in between). Much of that time was spent as a passionate hobbyist curious to dive deep into the ins and outs of web development. Basically, if you hire me, you'll getting a mid-senior level engineer at a discount. 😉👍
 
 <h3 align="left">Lets Connect!</h3>
 <p align="left">
